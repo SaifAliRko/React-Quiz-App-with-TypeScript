@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Live App Below U+1F447
+## Live App Below :point_down:
 https://react-quiz-app-with-typescript.web.app/
 
 ## Available Scripts
